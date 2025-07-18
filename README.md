@@ -9,7 +9,7 @@ This project predicts whether a patient has diabetes using multiple machine lear
 ## ⚙️ Features
 
 - Cleaned and preprocessed dataset
-- 
+
 - Model training using:
   - KNN
   - Naive Bias
@@ -17,12 +17,12 @@ This project predicts whether a patient has diabetes using multiple machine lear
   - Decision Tree
   - Random Forest
   - Voting Classifier
-  - 
+
 - Hyperparameter tuning using GridSearchCV
 - Use of Stratified k-fold for cross-validation
 - Evaluation with classification metrics
 - Model saved using both `pickle` and `skops`
-- 
+
 - Interactive prediction web app using Streamlit
 
 ---
