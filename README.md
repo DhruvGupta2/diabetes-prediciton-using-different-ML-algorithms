@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction Using Machine Learning
 
-![Diabetes Prediction](image/1.png)
+![Diabetes Prediction](images/1.png)
 
 This project predicts whether a patient has diabetes using multiple machine learning models and a web app built with Streamlit. It includes data preprocessing, model training, evaluation, and deployment.
 
