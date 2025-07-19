@@ -3,3 +3,4 @@ pandas==2.2.2
 scikit-learn==1.2.2
 skops==0.11.0
 streamlit==1.32.2
+pickle
