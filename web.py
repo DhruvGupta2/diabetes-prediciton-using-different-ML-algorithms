@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 from sklearn.preprocessing import QuantileTransformer
 
-df=pd.read_csv(".\diabetes.csv")
+df=pd.read_csv("diabetes.csv")
 df=df.drop_duplicates()
 
 df_selected=df.drop(['BloodPressure','Insulin','DiabetesPedigreeFunction','Outcome'],axis='columns')
